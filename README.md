@@ -10,6 +10,10 @@ This project is aimed at starting studies on integrating Java projects with Arti
 ![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge&logo=lombok&logoColor=white)
 ![Spring OpenAI](https://img.shields.io/badge/Spring%20OpenAI-6DB33F?style=for-the-badge&logo=openai&logoColor=white)
 
+![Your Image Title](https://url_to_your_image.jpg)
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fdatatobiz%2Fai-consulting-explained-a-comprehensive-guide-for-businesses-9632fc16407e&psig=AOvVaw1SxoNbZoqVFGsZKYi526lN&ust=1714049473959000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDJxoHy2oUDFQAAAAAdAAAAABAE">
+</p>
 ## Getting Started
 
 To interact with this project, you can use the provided Postman collection:
