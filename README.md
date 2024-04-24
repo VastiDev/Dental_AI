@@ -10,10 +10,6 @@ This project is aimed at starting studies on integrating Java projects with Arti
 ![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge&logo=lombok&logoColor=white)
 ![Spring OpenAI](https://img.shields.io/badge/Spring%20OpenAI-6DB33F?style=for-the-badge&logo=openai&logoColor=white)
 
-![Your Image Title](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fcontent-jasper-ai-Hrm0LJNRkPHDkLIHz9&psig=AOvVaw0H3Pk3CpHFw7n3bmpGPIHP&ust=1714050599177000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDK-5n22oUDFQAAAAAdAAAAABAE)
-<p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fcontent-jasper-ai-Hrm0LJNRkPHDkLIHz9&psig=AOvVaw0H3Pk3CpHFw7n3bmpGPIHP&ust=1714050599177000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDK-5n22oUDFQAAAAAdAAAAABAE">
-</p>
 ## Getting Started
 
 To interact with this project, you can use the provided Postman collection:
