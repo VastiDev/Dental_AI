@@ -10,7 +10,9 @@ This project is aimed at starting studies on integrating Java projects with Arti
 ![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge&logo=lombok&logoColor=white)
 ![Spring OpenAI](https://img.shields.io/badge/Spring%20OpenAI-6DB33F?style=for-the-badge&logo=openai&logoColor=white)
 
-
+<p align="center">
+  <img src="ai.png" alt="AI Integration Example">
+</p>
 
 ## Getting Started
 
