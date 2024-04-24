@@ -12,7 +12,7 @@ This project is aimed at starting studies on integrating Java projects with Arti
 
 ![Your Image Title](https://url_to_your_image.jpg)
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fdatatobiz%2Fai-consulting-explained-a-comprehensive-guide-for-businesses-9632fc16407e&psig=AOvVaw1SxoNbZoqVFGsZKYi526lN&ust=1714049473959000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDJxoHy2oUDFQAAAAAdAAAAABAE">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fpt%2F7ZiU&psig=AOvVaw1SxoNbZoqVFGsZKYi526lN&ust=1714049473959000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDJxoHy2oUDFQAAAAAdAAAAABAv">
 </p>
 ## Getting Started
 
