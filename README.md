@@ -21,3 +21,6 @@ To interact with this project, you can use the provided Postman collection:
 ## Usage
 
 Details on how to use this project are available within the Postman collection, which includes example requests and responses that you can utilize to understand how the integration works.
+
+### Important Note
+Before testing, make sure to replace the API key in the requests with your own OpenAI API key to ensure proper functionality.
