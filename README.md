@@ -11,9 +11,9 @@ This project is aimed at starting studies on integrating Java projects with Arti
 ![Spring OpenAI](https://img.shields.io/badge/Spring%20OpenAI-6DB33F?style=for-the-badge&logo=openai&logoColor=white)
 
 <p align="center">
-  <img src="ai.png" alt="AI Integration Example"> width="600">
+  <img src="ai.png" alt="AI Integration Example" width="300">
 </p>
-</p>
+
 
 ## Getting Started
 
