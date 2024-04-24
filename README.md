@@ -10,11 +10,15 @@ This project is aimed at starting studies on integrating Java projects with Arti
 ![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge&logo=lombok&logoColor=white)
 ![Spring OpenAI](https://img.shields.io/badge/Spring%20OpenAI-6DB33F?style=for-the-badge&logo=openai&logoColor=white)
 
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crawly.com.br%2Fblog%2Finteligencia-artificial-o-que-e-como-funciona-e-quais-as-principais-aplicacoes&psig=AOvVaw0AtqeSebmP3G0W_tyuC20Z&ust=1714052414571000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjD_vz82oUDFQAAAAAdAAAAABAE" alt="Project Image">
+</p>
+
 ## Getting Started
 
 To interact with this project, you can use the provided Postman collection:
 
-[![Postman](https://www.postman.com/lively-crater-8977/workspace/dental-ai/collection/25697794-911f4112-ac06-4ea4-a972-bef4f895c10b?action=share&creator=25697794)
+[![Postman](https://img.shields.io/badge/Postman-F24E1E?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/lively-crater-8977/workspace/dental-ai/collection/25697794-911f4112-ac06-4ea4-a972-bef4f895c10b?action=share&creator=25697794)
 
 ## Usage
 
