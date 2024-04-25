@@ -10,12 +10,20 @@ This project is aimed at starting studies on integrating Java projects with Arti
 ![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge&logo=lombok&logoColor=white)
 ![Spring OpenAI](https://img.shields.io/badge/Spring%20OpenAI-6DB33F?style=for-the-badge&logo=openai&logoColor=white)
 
+<p align="center">
+  <img src="ai.png" alt="AI Integration Example" width="400">
+</p>
+
+
 ## Getting Started
 
 To interact with this project, you can use the provided Postman collection:
 
-[![Postman](https://img.shields.io/badge/Postman-F24E1E?style=for-the-badge&logo=postman&logoColor=white)](https://lively-crater-8977.postman.co/workspace/CoopVotes~8e495481-16f7-4021-83e0-9683e5178f03/collection/25697794-11fb81ec-0609-4292-a99a-2b1c295921cc?action=share&creator=25697794)
+[![Postman](https://img.shields.io/badge/Postman-F24E1E?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/lively-crater-8977/workspace/dental-ai/collection/25697794-911f4112-ac06-4ea4-a972-bef4f895c10b?action=share&creator=25697794)
 
 ## Usage
 
 Details on how to use this project are available within the Postman collection, which includes example requests and responses that you can utilize to understand how the integration works.
+
+### Important Note
+Before testing, make sure to replace the API key in the requests with your own OpenAI API key to ensure proper functionality.
